@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chmuhammadasim&show_icons=true&theme=dark&locale=en" alt="chmuhammadasim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chmuhammadasim&" alt="chmuhammadasim" /></p>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
