@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chmuhammadasim&" alt="chmuhammadasim" /></p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
