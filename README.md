@@ -27,10 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chmuhammadasim&show_icons=true&locale=en&layout=compact" alt="chmuhammadasim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chmuhammadasim&show_icons=true&theme=dark&locale=en" alt="chmuhammadasim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chmuhammadasim&" alt="chmuhammadasim" /></p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
