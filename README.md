@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [github.com/chmuhammadasim](github.com/chmuhammadasim)
 
 - 📫 How to reach me **muhammadasimchattha@gmail.com**
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_car6on_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_car6on_" height="30" width="40" /></a>
@@ -35,5 +35,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmuhammadasim&theme=2077" height="180em" />
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
