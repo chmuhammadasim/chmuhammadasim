@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_car6on_" target="blank"><img src="https://img.shields.io/twitter/follow/_car6on_?logo=twitter&style=for-the-badge" alt="_car6on_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, MEAN Stack**
+- 🌱 I’m currently learning **MERN, MEAN Stack**
 
 - 👨‍💻 All of my projects are available at [github.com/chmuhammadasim](github.com/chmuhammadasim)
 
