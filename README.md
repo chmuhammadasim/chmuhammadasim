@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0018,30:6600ff,70:00ffcc,100:001a12&height=220&section=header&text=Muhammad%20Asim%20Chattha&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=%3E%3E%20CS%20Student%20%40%20Air%20University%20%7C%20Full-Stack%20Explorer%20%7C%20%40chmuhammadasim&descSize=14&descAlignY=62&descColor=00ffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0018,30:6600ff,70:00ffcc,100:001a12&height=220&section=header&text=Muhammad%20Asim%20Chattha&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=%3E%3E%20Full-Stack%20Explorer%20%7C%20%40chmuhammadasim&descSize=14&descAlignY=52&descColor=00ffcc&animation=fadeIn" width="100%"/>
 
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hi%2C+I%27m+Muhammad+Asim+Chattha+%F0%9F%91%BE%3BFull-Stack+Explorer+%F0%9F%9A%80%3BMERN+%7C+MEAN+Stack+%E2%80%94+Loading...%3BNode.js+%C2%B7+Python+%C2%B7+Go+%E2%80%94+Expanding%3BAlways+Learning.+Always+Shipping.%3BBuilding+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chmuhammadasim&label=PROFILE+VIEWS&color=6600ff&style=for-the-badge)
 
@@ -15,7 +16,7 @@ $ whoami
 > Muhammad Asim Chattha — CS Student @ Air University, Islamabad
 
 $ cat current_mission.log
-> ⚡ Currently loading : MERN Stack · MEAN Stack
+> ⚡ Currently loading : MERN Stack · MEAN Stack · Go Lang · Python · Nodejs
 > 📡 Comms            : muhammadasimchattha@gmail.com
 > 🛸 Projects HQ      : github.com/chmuhammadasim
 ```
@@ -75,12 +76,12 @@ $ cat current_mission.log
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmuhammadasim&theme=2077" width="100%"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chmuhammadasim&theme=2077" height="180em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chmuhammadasim&theme=2077" height="180em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chmuhammadasim&theme=2077" height="180em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chmuhammadasim&theme=2077" height="180em"/>
-</div>
+</div> -->
 
 ---
 
