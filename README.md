@@ -74,7 +74,9 @@ $ cat current_mission.log
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chmuhammadasim&theme=2077" width="100%"/>
-</div>
+</div> 
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=chmuhammadasim&bg_color=0d0d1a&color=00ffcc&line=6600ff&point=ffffff&hide_border=true" width="100%"/> -->
+
 
 <!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chmuhammadasim&theme=2077" height="180em"/>
