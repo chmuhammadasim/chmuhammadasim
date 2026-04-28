@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-> Muhammad Asim Chattha — CS Student @ Air University, Islamabad
+> Muhammad Asim Chattha — Software Developer @ Snskies pvt ltd, Islamabad
 
 $ cat current_mission.log
 > ⚡ Currently loading : MERN Stack · MEAN Stack · Go Lang · Python · Nodejs
