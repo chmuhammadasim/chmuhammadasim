@@ -57,9 +57,7 @@
 <div align="center">
 
 ```
-  ╔═══╗ ╔═══╗ ╔═══╗  ╔══╡ ⟨ 01 ⟩  T E C H   M A T R I X ╞══╗
-  ║   ║ ║   ║ ║   ║  ╚══════════════════════════════════════╝
-  ╚═══╝ ╚═══╝ ╚═══╝
+  ╔══╡ ⟨ 01 ⟩  T E C H   M A T R I X ╞══╗
 ```
 
 </div>
@@ -273,7 +271,35 @@ export default OPERATOR;
 
 ---
 
-## `⟨ 07 ⟩` ESTABLISH COMM LINK
+## `⟨ 07 ⟩` GRID SNAKE — MINI GAME
+
+<div align="center">
+
+```
+╔══╡ CLASSIFIED: INTERACTIVE INFILTRATION PROTOCOL ╞═══════════════════════╗
+║  A cyberpunk Snake game — built into this README by the operator.        ║
+║  Collect ◈ data packets. Survive the grid. Don't breach the walls.       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### ▸ [🕹️ LAUNCH GRID SNAKE — PLAY NOW](https://chmuhammadasim.github.io/chmuhammadasim/game.html)
+
+```
+╔══╡ CONTROLS ╞════════════════════════════════════════════════════════════╗
+║  KEYBOARD  ──►  W A S D  or  Arrow Keys  to move the snake             ║
+║  MOBILE    ──►  Swipe on canvas  or  use the on-screen D-Pad           ║
+║  OBJECTIVE ──►  Collect ◈ cyan packets  ·  Gold tokens = bonus pts     ║
+║  LEVELS    ──►  Speed increases every 50pts × level — survive longer   ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://img.shields.io/badge/◈_PLAY_GRID_SNAKE-00ffcc?style=for-the-badge&labelColor=03000f&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmZjYyIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0xIDEzSDl2LTJoNHYyem0xLTRIOXYtMmg1djJ6Ii8+PC9zdmc+" alt="Play Game"/>
+
+</div>
+
+---
+
+## `⟨ 08 ⟩` ESTABLISH COMM LINK
 
 <div align="center">
 
@@ -298,8 +324,6 @@ export default OPERATOR;
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
 
 ```
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
